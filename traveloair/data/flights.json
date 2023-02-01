@@ -1,0 +1,802 @@
+[
+    {
+        "number": "106890952",
+        "airline": "AA",
+        "departure_city": "San Antonio",
+        "arrival_city": "Milwaukee",
+        "date_of_departure": "2021-09-03",
+        "departure_time": "18:09:28"
+    },
+    {
+        "number": "049705476",
+        "airline": "United",
+        "departure_city": "San Diego",
+        "arrival_city": "Kansas City",
+        "date_of_departure": "2021-10-06",
+        "departure_time": "23:43:11"
+    },
+    {
+        "number": "044501358",
+        "airline": "AA",
+        "departure_city": "Houston",
+        "arrival_city": "Kansas City",
+        "date_of_departure": "2021-08-13",
+        "departure_time": "23:00:08"
+    },
+    {
+        "number": "048176530",
+        "airline": "Spirit",
+        "departure_city": "San Antonio",
+        "arrival_city": "Atlanta",
+        "date_of_departure": "2021-09-14",
+        "departure_time": "07:10:44"
+    },
+    {
+        "number": "088876968",
+        "airline": "Air India",
+        "departure_city": "Austin",
+        "arrival_city": "Omaha",
+        "date_of_departure": "2021-08-15",
+        "departure_time": "11:45:49"
+    },
+    {
+        "number": "079918576",
+        "airline": "Delta",
+        "departure_city": "Fort Worth",
+        "arrival_city": "Atlanta",
+        "date_of_departure": "2021-09-25",
+        "departure_time": "07:53:43"
+    },
+    {
+        "number": "092796872",
+        "airline": "United",
+        "departure_city": "Chicago",
+        "arrival_city": "Mesa",
+        "date_of_departure": "2021-09-27",
+        "departure_time": "09:29:28"
+    },
+    {
+        "number": "082252287",
+        "airline": "United",
+        "departure_city": "Dallas",
+        "arrival_city": "Albuquerque",
+        "date_of_departure": "2021-08-22",
+        "departure_time": "14:04:36"
+    },
+    {
+        "number": "036550919",
+        "airline": "United",
+        "departure_city": "Houston",
+        "arrival_city": "Kansas City",
+        "date_of_departure": "2021-08-25",
+        "departure_time": "18:31:51"
+    },
+    {
+        "number": "019597287",
+        "airline": "Spirit",
+        "departure_city": "Fort Worth",
+        "arrival_city": "Colorado Springs",
+        "date_of_departure": "2021-08-30",
+        "departure_time": "00:22:54"
+    },
+    {
+        "number": "059981154",
+        "airline": "United",
+        "departure_city": "Chicago",
+        "arrival_city": "Colorado Springs",
+        "date_of_departure": "2021-09-02",
+        "departure_time": "08:58:41"
+    },
+    {
+        "number": "091192642",
+        "airline": "AA",
+        "departure_city": "San Diego",
+        "arrival_city": "Kansas City",
+        "date_of_departure": "2021-08-23",
+        "departure_time": "11:45:50"
+    },
+    {
+        "number": "108847165",
+        "airline": "Spirit",
+        "departure_city": "Fort Worth",
+        "arrival_city": "Atlanta",
+        "date_of_departure": "2021-09-13",
+        "departure_time": "04:19:27"
+    },
+    {
+        "number": "095123251",
+        "airline": "AA",
+        "departure_city": "San Antonio",
+        "arrival_city": "Albuquerque",
+        "date_of_departure": "2021-10-03",
+        "departure_time": "11:46:39"
+    },
+    {
+        "number": "059350976",
+        "airline": "United",
+        "departure_city": "Dallas",
+        "arrival_city": "Omaha",
+        "date_of_departure": "2021-09-27",
+        "departure_time": "18:43:03"
+    },
+    {
+        "number": "103669623",
+        "airline": "Delta",
+        "departure_city": "Chicago",
+        "arrival_city": "Milwaukee",
+        "date_of_departure": "2021-09-09",
+        "departure_time": "08:21:30"
+    },
+    {
+        "number": "093876788",
+        "airline": "Spirit",
+        "departure_city": "San Jose",
+        "arrival_city": "Fresno",
+        "date_of_departure": "2021-09-11",
+        "departure_time": "18:09:59"
+    },
+    {
+        "number": "031312288",
+        "airline": "AA",
+        "departure_city": "Dallas",
+        "arrival_city": "Albuquerque",
+        "date_of_departure": "2021-09-28",
+        "departure_time": "13:23:24"
+    },
+    {
+        "number": "126813210",
+        "airline": "AA",
+        "departure_city": "Houston",
+        "arrival_city": "Omaha",
+        "date_of_departure": "2021-08-24",
+        "departure_time": "15:05:29"
+    },
+    {
+        "number": "088899709",
+        "airline": "United",
+        "departure_city": "San Antonio",
+        "arrival_city": "Fresno",
+        "date_of_departure": "2021-08-16",
+        "departure_time": "15:50:29"
+    },
+    {
+        "number": "106550441",
+        "airline": "Delta",
+        "departure_city": "San Diego",
+        "arrival_city": "Colorado Springs",
+        "date_of_departure": "2021-10-01",
+        "departure_time": "03:38:11"
+    },
+    {
+        "number": "067706541",
+        "airline": "AA",
+        "departure_city": "Austin",
+        "arrival_city": "Tucson",
+        "date_of_departure": "2021-09-18",
+        "departure_time": "00:06:12"
+    },
+    {
+        "number": "046392413",
+        "airline": "Air India",
+        "departure_city": "San Jose",
+        "arrival_city": "Fresno",
+        "date_of_departure": "2021-09-27",
+        "departure_time": "23:03:29"
+    },
+    {
+        "number": "088940218",
+        "airline": "AA",
+        "departure_city": "Dallas",
+        "arrival_city": "Tucson",
+        "date_of_departure": "2021-08-09",
+        "departure_time": "04:53:29"
+    },
+    {
+        "number": "121180320",
+        "airline": "AA",
+        "departure_city": "Los Angeles",
+        "arrival_city": "Colorado Springs",
+        "date_of_departure": "2021-09-11",
+        "departure_time": "09:14:12"
+    },
+    {
+        "number": "042812764",
+        "airline": "Air India",
+        "departure_city": "San Antonio",
+        "arrival_city": "Milwaukee",
+        "date_of_departure": "2021-10-06",
+        "departure_time": "03:49:07"
+    },
+    {
+        "number": "116146984",
+        "airline": "Air India",
+        "departure_city": "Chicago",
+        "arrival_city": "Sacramento",
+        "date_of_departure": "2021-08-23",
+        "departure_time": "01:46:30"
+    },
+    {
+        "number": "078456013",
+        "airline": "AA",
+        "departure_city": "San Jose",
+        "arrival_city": "Milwaukee",
+        "date_of_departure": "2021-08-29",
+        "departure_time": "18:19:47"
+    },
+    {
+        "number": "099079181",
+        "airline": "AA",
+        "departure_city": "San Jose",
+        "arrival_city": "Albuquerque",
+        "date_of_departure": "2021-08-29",
+        "departure_time": "21:41:44"
+    },
+    {
+        "number": "103127466",
+        "airline": "Delta",
+        "departure_city": "Chicago",
+        "arrival_city": "Milwaukee",
+        "date_of_departure": "2021-08-27",
+        "departure_time": "12:41:46"
+    },
+    {
+        "number": "063194746",
+        "airline": "AA",
+        "departure_city": "San Jose",
+        "arrival_city": "Omaha",
+        "date_of_departure": "2021-08-15",
+        "departure_time": "13:27:40"
+    },
+    {
+        "number": "041078729",
+        "airline": "Spirit",
+        "departure_city": "Austin",
+        "arrival_city": "Milwaukee",
+        "date_of_departure": "2021-08-28",
+        "departure_time": "18:58:25"
+    },
+    {
+        "number": "128775835",
+        "airline": "AA",
+        "departure_city": "Austin",
+        "arrival_city": "Sacramento",
+        "date_of_departure": "2021-09-13",
+        "departure_time": "12:01:27"
+    },
+    {
+        "number": "033601230",
+        "airline": "AA",
+        "departure_city": "Dallas",
+        "arrival_city": "Albuquerque",
+        "date_of_departure": "2021-09-25",
+        "departure_time": "00:42:19"
+    },
+    {
+        "number": "085243060",
+        "airline": "Spirit",
+        "departure_city": "Austin",
+        "arrival_city": "Albuquerque",
+        "date_of_departure": "2021-09-07",
+        "departure_time": "10:25:44"
+    },
+    {
+        "number": "090506941",
+        "airline": "Delta",
+        "departure_city": "Fort Worth",
+        "arrival_city": "Milwaukee",
+        "date_of_departure": "2021-09-07",
+        "departure_time": "14:39:55"
+    },
+    {
+        "number": "115347357",
+        "airline": "Air India",
+        "departure_city": "Chicago",
+        "arrival_city": "Albuquerque",
+        "date_of_departure": "2021-08-18",
+        "departure_time": "20:56:36"
+    },
+    {
+        "number": "048242082",
+        "airline": "Spirit",
+        "departure_city": "Dallas",
+        "arrival_city": "Mesa",
+        "date_of_departure": "2021-08-13",
+        "departure_time": "08:25:22"
+    },
+    {
+        "number": "124476280",
+        "airline": "Air India",
+        "departure_city": "Fort Worth",
+        "arrival_city": "Sacramento",
+        "date_of_departure": "2021-08-26",
+        "departure_time": "17:17:42"
+    },
+    {
+        "number": "050975871",
+        "airline": "Air India",
+        "departure_city": "Phoenix",
+        "arrival_city": "Colorado Springs",
+        "date_of_departure": "2021-09-21",
+        "departure_time": "19:50:25"
+    },
+    {
+        "number": "066964559",
+        "airline": "United",
+        "departure_city": "Phoenix",
+        "arrival_city": "Milwaukee",
+        "date_of_departure": "2021-08-09",
+        "departure_time": "19:35:05"
+    },
+    {
+        "number": "100370902",
+        "airline": "AA",
+        "departure_city": "Los Angeles",
+        "arrival_city": "Atlanta",
+        "date_of_departure": "2021-08-19",
+        "departure_time": "19:49:16"
+    },
+    {
+        "number": "017868879",
+        "airline": "Spirit",
+        "departure_city": "Austin",
+        "arrival_city": "Omaha",
+        "date_of_departure": "2021-09-17",
+        "departure_time": "21:16:21"
+    },
+    {
+        "number": "078215487",
+        "airline": "Air India",
+        "departure_city": "San Antonio",
+        "arrival_city": "Atlanta",
+        "date_of_departure": "2021-09-22",
+        "departure_time": "05:31:32"
+    },
+    {
+        "number": "101580652",
+        "airline": "Air India",
+        "departure_city": "San Antonio",
+        "arrival_city": "Sacramento",
+        "date_of_departure": "2021-09-14",
+        "departure_time": "20:19:40"
+    },
+    {
+        "number": "085195066",
+        "airline": "Spirit",
+        "departure_city": "Fort Worth",
+        "arrival_city": "Omaha",
+        "date_of_departure": "2021-09-26",
+        "departure_time": "14:47:00"
+    },
+    {
+        "number": "049227925",
+        "airline": "AA",
+        "departure_city": "Chicago",
+        "arrival_city": "Atlanta",
+        "date_of_departure": "2021-09-01",
+        "departure_time": "13:38:14"
+    },
+    {
+        "number": "089983973",
+        "airline": "Air India",
+        "departure_city": "Austin",
+        "arrival_city": "Colorado Springs",
+        "date_of_departure": "2021-09-08",
+        "departure_time": "08:25:05"
+    },
+    {
+        "number": "042613727",
+        "airline": "Spirit",
+        "departure_city": "Los Angeles",
+        "arrival_city": "Kansas City",
+        "date_of_departure": "2021-08-23",
+        "departure_time": "02:45:38"
+    },
+    {
+        "number": "081877647",
+        "airline": "AA",
+        "departure_city": "Los Angeles",
+        "arrival_city": "Albuquerque",
+        "date_of_departure": "2021-09-17",
+        "departure_time": "21:28:14"
+    },
+    {
+        "number": "019658883",
+        "airline": "Air India",
+        "departure_city": "Phoenix",
+        "arrival_city": "Kansas City",
+        "date_of_departure": "2021-09-30",
+        "departure_time": "08:05:41"
+    },
+    {
+        "number": "031925798",
+        "airline": "Spirit",
+        "departure_city": "Chicago",
+        "arrival_city": "Milwaukee",
+        "date_of_departure": "2021-08-30",
+        "departure_time": "07:44:07"
+    },
+    {
+        "number": "081875212",
+        "airline": "AA",
+        "departure_city": "Los Angeles",
+        "arrival_city": "Omaha",
+        "date_of_departure": "2021-09-06",
+        "departure_time": "13:13:39"
+    },
+    {
+        "number": "073850067",
+        "airline": "Delta",
+        "departure_city": "Austin",
+        "arrival_city": "Omaha",
+        "date_of_departure": "2021-09-21",
+        "departure_time": "01:24:39"
+    },
+    {
+        "number": "122673289",
+        "airline": "AA",
+        "departure_city": "Los Angeles",
+        "arrival_city": "Kansas City",
+        "date_of_departure": "2021-08-24",
+        "departure_time": "03:23:08"
+    },
+    {
+        "number": "089231010",
+        "airline": "Air India",
+        "departure_city": "San Antonio",
+        "arrival_city": "Milwaukee",
+        "date_of_departure": "2021-09-07",
+        "departure_time": "17:42:26"
+    },
+    {
+        "number": "045525841",
+        "airline": "Air India",
+        "departure_city": "Dallas",
+        "arrival_city": "Omaha",
+        "date_of_departure": "2021-10-03",
+        "departure_time": "13:11:26"
+    },
+    {
+        "number": "051657088",
+        "airline": "Delta",
+        "departure_city": "Phoenix",
+        "arrival_city": "Fresno",
+        "date_of_departure": "2021-09-16",
+        "departure_time": "00:11:19"
+    },
+    {
+        "number": "025293928",
+        "airline": "Delta",
+        "departure_city": "Fort Worth",
+        "arrival_city": "Mesa",
+        "date_of_departure": "2021-08-20",
+        "departure_time": "13:29:18"
+    },
+    {
+        "number": "085276053",
+        "airline": "Spirit",
+        "departure_city": "Los Angeles",
+        "arrival_city": "Tucson",
+        "date_of_departure": "2021-08-13",
+        "departure_time": "06:14:41"
+    },
+    {
+        "number": "128607259",
+        "airline": "United",
+        "departure_city": "San Diego",
+        "arrival_city": "Atlanta",
+        "date_of_departure": "2021-08-10",
+        "departure_time": "11:14:04"
+    },
+    {
+        "number": "029251830",
+        "airline": "Delta",
+        "departure_city": "Chicago",
+        "arrival_city": "Albuquerque",
+        "date_of_departure": "2021-09-10",
+        "departure_time": "06:46:02"
+    },
+    {
+        "number": "102515118",
+        "airline": "United",
+        "departure_city": "Austin",
+        "arrival_city": "Fresno",
+        "date_of_departure": "2021-09-13",
+        "departure_time": "21:05:48"
+    },
+    {
+        "number": "069390133",
+        "airline": "AA",
+        "departure_city": "San Antonio",
+        "arrival_city": "Omaha",
+        "date_of_departure": "2021-09-11",
+        "departure_time": "08:45:24"
+    },
+    {
+        "number": "059568247",
+        "airline": "United",
+        "departure_city": "San Antonio",
+        "arrival_city": "Atlanta",
+        "date_of_departure": "2021-08-08",
+        "departure_time": "23:58:51"
+    },
+    {
+        "number": "111220261",
+        "airline": "Air India",
+        "departure_city": "Phoenix",
+        "arrival_city": "Sacramento",
+        "date_of_departure": "2021-08-23",
+        "departure_time": "19:59:26"
+    },
+    {
+        "number": "027405620",
+        "airline": "Delta",
+        "departure_city": "Phoenix",
+        "arrival_city": "Fresno",
+        "date_of_departure": "2021-09-16",
+        "departure_time": "16:17:53"
+    },
+    {
+        "number": "067864205",
+        "airline": "United",
+        "departure_city": "San Diego",
+        "arrival_city": "Sacramento",
+        "date_of_departure": "2021-09-18",
+        "departure_time": "07:40:47"
+    },
+    {
+        "number": "043990067",
+        "airline": "AA",
+        "departure_city": "Houston",
+        "arrival_city": "Tucson",
+        "date_of_departure": "2021-08-21",
+        "departure_time": "16:29:26"
+    },
+    {
+        "number": "013046831",
+        "airline": "AA",
+        "departure_city": "Phoenix",
+        "arrival_city": "Atlanta",
+        "date_of_departure": "2021-08-29",
+        "departure_time": "02:05:12"
+    },
+    {
+        "number": "080455028",
+        "airline": "Air India",
+        "departure_city": "Austin",
+        "arrival_city": "Sacramento",
+        "date_of_departure": "2021-08-08",
+        "departure_time": "10:16:43"
+    },
+    {
+        "number": "107128092",
+        "airline": "AA",
+        "departure_city": "San Jose",
+        "arrival_city": "Colorado Springs",
+        "date_of_departure": "2021-09-10",
+        "departure_time": "05:03:11"
+    },
+    {
+        "number": "073990082",
+        "airline": "AA",
+        "departure_city": "Houston",
+        "arrival_city": "Sacramento",
+        "date_of_departure": "2021-08-13",
+        "departure_time": "08:27:17"
+    },
+    {
+        "number": "048616993",
+        "airline": "Delta",
+        "departure_city": "Los Angeles",
+        "arrival_city": "Kansas City",
+        "date_of_departure": "2021-08-19",
+        "departure_time": "10:37:43"
+    },
+    {
+        "number": "123288246",
+        "airline": "AA",
+        "departure_city": "Los Angeles",
+        "arrival_city": "Atlanta",
+        "date_of_departure": "2021-10-02",
+        "departure_time": "03:41:44"
+    },
+    {
+        "number": "076183281",
+        "airline": "Delta",
+        "departure_city": "Phoenix",
+        "arrival_city": "Tucson",
+        "date_of_departure": "2021-10-06",
+        "departure_time": "05:53:02"
+    },
+    {
+        "number": "078588635",
+        "airline": "Delta",
+        "departure_city": "San Jose",
+        "arrival_city": "Fresno",
+        "date_of_departure": "2021-10-03",
+        "departure_time": "08:12:01"
+    },
+    {
+        "number": "073374530",
+        "airline": "United",
+        "departure_city": "San Diego",
+        "arrival_city": "Mesa",
+        "date_of_departure": "2021-08-29",
+        "departure_time": "03:12:52"
+    },
+    {
+        "number": "118136099",
+        "airline": "United",
+        "departure_city": "Phoenix",
+        "arrival_city": "Albuquerque",
+        "date_of_departure": "2021-09-12",
+        "departure_time": "20:57:02"
+    },
+    {
+        "number": "056274330",
+        "airline": "Air India",
+        "departure_city": "San Diego",
+        "arrival_city": "Sacramento",
+        "date_of_departure": "2021-10-01",
+        "departure_time": "16:59:50"
+    },
+    {
+        "number": "045705124",
+        "airline": "Delta",
+        "departure_city": "Austin",
+        "arrival_city": "Omaha",
+        "date_of_departure": "2021-09-30",
+        "departure_time": "09:20:37"
+    },
+    {
+        "number": "035679545",
+        "airline": "United",
+        "departure_city": "Dallas",
+        "arrival_city": "Kansas City",
+        "date_of_departure": "2021-09-22",
+        "departure_time": "09:32:32"
+    },
+    {
+        "number": "088378411",
+        "airline": "Spirit",
+        "departure_city": "Austin",
+        "arrival_city": "Colorado Springs",
+        "date_of_departure": "2021-08-19",
+        "departure_time": "15:26:28"
+    },
+    {
+        "number": "079564629",
+        "airline": "AA",
+        "departure_city": "San Antonio",
+        "arrival_city": "Milwaukee",
+        "date_of_departure": "2021-08-08",
+        "departure_time": "20:41:43"
+    },
+    {
+        "number": "072298044",
+        "airline": "AA",
+        "departure_city": "Austin",
+        "arrival_city": "Omaha",
+        "date_of_departure": "2021-09-19",
+        "departure_time": "07:20:55"
+    },
+    {
+        "number": "100619126",
+        "airline": "Air India",
+        "departure_city": "Dallas",
+        "arrival_city": "Omaha",
+        "date_of_departure": "2021-09-15",
+        "departure_time": "10:32:10"
+    },
+    {
+        "number": "045548446",
+        "airline": "Air India",
+        "departure_city": "San Diego",
+        "arrival_city": "Milwaukee",
+        "date_of_departure": "2021-09-24",
+        "departure_time": "22:03:23"
+    },
+    {
+        "number": "039696605",
+        "airline": "Air India",
+        "departure_city": "Los Angeles",
+        "arrival_city": "Sacramento",
+        "date_of_departure": "2021-08-26",
+        "departure_time": "12:06:50"
+    },
+    {
+        "number": "048975207",
+        "airline": "United",
+        "departure_city": "Chicago",
+        "arrival_city": "Kansas City",
+        "date_of_departure": "2021-09-06",
+        "departure_time": "23:39:26"
+    },
+    {
+        "number": "125386463",
+        "airline": "AA",
+        "departure_city": "San Jose",
+        "arrival_city": "Tucson",
+        "date_of_departure": "2021-08-17",
+        "departure_time": "00:39:27"
+    },
+    {
+        "number": "117499423",
+        "airline": "Air India",
+        "departure_city": "Dallas",
+        "arrival_city": "Albuquerque",
+        "date_of_departure": "2021-08-18",
+        "departure_time": "06:08:40"
+    },
+    {
+        "number": "051317302",
+        "airline": "Air India",
+        "departure_city": "San Antonio",
+        "arrival_city": "Colorado Springs",
+        "date_of_departure": "2021-08-17",
+        "departure_time": "15:48:23"
+    },
+    {
+        "number": "096177811",
+        "airline": "Air India",
+        "departure_city": "Dallas",
+        "arrival_city": "Albuquerque",
+        "date_of_departure": "2021-09-18",
+        "departure_time": "06:51:48"
+    },
+    {
+        "number": "039567268",
+        "airline": "Delta",
+        "departure_city": "Los Angeles",
+        "arrival_city": "Atlanta",
+        "date_of_departure": "2021-10-05",
+        "departure_time": "05:57:02"
+    },
+    {
+        "number": "015113788",
+        "airline": "AA",
+        "departure_city": "Houston",
+        "arrival_city": "Mesa",
+        "date_of_departure": "2021-10-01",
+        "departure_time": "00:04:31"
+    },
+    {
+        "number": "015323086",
+        "airline": "United",
+        "departure_city": "Los Angeles",
+        "arrival_city": "Albuquerque",
+        "date_of_departure": "2021-09-13",
+        "departure_time": "18:55:44"
+    },
+    {
+        "number": "010316441",
+        "airline": "United",
+        "departure_city": "Austin",
+        "arrival_city": "Atlanta",
+        "date_of_departure": "2021-08-31",
+        "departure_time": "20:40:43"
+    },
+    {
+        "number": "128408254",
+        "airline": "AA",
+        "departure_city": "Phoenix",
+        "arrival_city": "Tucson",
+        "date_of_departure": "2021-08-24",
+        "departure_time": "22:54:51"
+    },
+    {
+        "number": "038107221",
+        "airline": "Air India",
+        "departure_city": "Fort Worth",
+        "arrival_city": "Sacramento",
+        "date_of_departure": "2021-09-13",
+        "departure_time": "07:23:32"
+    },
+    {
+        "number": "029373420",
+        "airline": "AA",
+        "departure_city": "Phoenix",
+        "arrival_city": "Omaha",
+        "date_of_departure": "2021-09-10",
+        "departure_time": "02:10:28"
+    }
+]

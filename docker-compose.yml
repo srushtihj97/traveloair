@@ -1,0 +1,11 @@
+version: '3.1'
+services:
+  flight_reservation_api:
+    image: traveloair_flight_reservation_api:latest
+    container_name: traveloair_flight_reservation_api
+    restart: always
+    env_file: .env
+    ports:
+      - 5000:5000
+    command: /bin/sh -c "python manage.py migrate && python manage.py load_data && python manage.py runserver 0.0.0.0:5000"
+    privileged: true
