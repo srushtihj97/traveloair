@@ -9,8 +9,7 @@ RUN apt-get update --fix-missing && \
 
 # Install pip dependencies
 COPY requirements.txt /app/
-# Install directories
-COPY traveloair /app/
+
 
 #RUN pip install \
 RUN pip install --upgrade pip
@@ -18,5 +17,12 @@ RUN pip install --upgrade pip setuptools
 RUN pip install -r /app/requirements.txt && \
     rm -rf /root/.cache
 
+# Install directories
+COPY traveloair /app/
+
 WORKDIR /app
-EXPOSE 5000
+EXPOSE 8000
+
+# docker build -t traveloair_flight_reservation_api:latest .
+
+CMD ["/bin/sh", "-c", "python manage.py runserver 0.0.0.0:8000"]
