@@ -11,7 +11,7 @@
 - **POSTGRES_DB:** Database that API migrates the changes and serve users
 - **POSTGRES_PORT:** Port at which the Postgres is running
 - **POSTGRES_PASSWORD:** Password that API may use to connect to Postgres
-- **POSTGRES_HOST:** Host (URL) that API may use to connect to Postgres, e.g. 'localhost' or 'db.traveloair.com' or '10.20.0.0'
+- **POSTGRES_HOST:** Host (URL) that API may use to connect to Postgres, e.g. 'localhost' or 'db.traveloair.com' or '10.0.0.0'
 
 
 ### Starting API
