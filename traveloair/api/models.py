@@ -1,8 +1,6 @@
 from django.db import models
 from datetime import date, time
 
-
-# Create your models here.
 class Flight(models.Model):
     number = models.CharField(max_length=100,
                               unique=True,
